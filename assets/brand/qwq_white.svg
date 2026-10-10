@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 638 247" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-1173,-491.417659)">
+        <g transform="matrix(0.789062,0,0,0.789062,3753.453125,-250.082341)">
+            <g transform="matrix(1,0,0,0.857143,-3890,137.142857)">
+                <path d="M736,1072L688,1072C661.508,1072 640,1046.907 640,1016C640,985.093 661.508,960 688,960L848,960C874.492,960 896,985.093 896,1016C896,1046.907 874.492,1072 848,1072L768,1072L832,1146.667" style="fill:none;stroke:#FFFFFF;stroke-width:43.55px;"/>
+            </g>
+            <g transform="matrix(1,0,0,0.857143,-3378,249.142857)">
+                <path d="M832,1146.667L768,1072L688,1072C661.508,1072 640,1046.907 640,1016C640,985.093 661.508,960 688,960L848,960C874.492,960 896,985.093 896,1016C896,1046.907 874.492,1072 848,1072L832,1072" style="fill:none;stroke:#FFFFFF;stroke-width:43.55px;"/>
+            </g>
+            <g transform="matrix(-0.316228,-0.948683,-0.948683,0.316228,-2852.463202,1107.41751)">
+                <path d="M37.881,1.642C29.503,4.435 24.969,13.503 27.761,21.881L37.881,52.239C40.673,60.616 49.742,65.15 58.119,62.358L73.298,57.298" style="fill:none;fill-rule:nonzero;stroke:#FFFFFF;stroke-width:40.55px;stroke-linecap:square;stroke-miterlimit:10;"/>
+            </g>
+            <g transform="matrix(-0.316228,0.948683,0.948683,0.316228,-2828.940356,955.628182)">
+                <path d="M122.119,1.642C130.497,4.435 135.031,13.503 132.239,21.881L122.119,52.239C119.327,60.616 110.258,65.15 101.881,62.358L86.702,57.298" style="fill:none;fill-rule:nonzero;stroke:#FFFFFF;stroke-width:40.55px;stroke-linecap:square;stroke-miterlimit:10;"/>
+            </g>
+        </g>
+    </g>
+</svg>

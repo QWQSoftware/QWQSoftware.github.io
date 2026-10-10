@@ -1,0 +1,16 @@
+@font-face { font-family: "QWQ Sans"; src: url("assets/fonts/QWQSans-Text.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: swap; }
+@font-face { font-family: "QWQ Sans"; src: url("assets/fonts/QWQSans-Bold.woff2") format("woff2"); font-weight: 700; font-style: normal; font-display: swap; }
+@font-face { font-family: "QWQ Mono"; src: url("assets/fonts/QWQMono-Bold.woff2") format("woff2"); font-weight: 700; font-style: normal; font-display: swap; }
+@font-face { font-family: "Syncopate"; src: url("assets/fonts/Syncopate-Bold.woff2") format("woff2"); font-weight: 700; font-style: normal; font-display: swap; }
+@font-face { font-family: "QWQ Han CN"; src: url("assets/fonts/QWQHanCN-Regular.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: swap; }
+@font-face { font-family: "QWQ Han CN"; src: url("assets/fonts/QWQHanCN-Bold.woff2") format("woff2"); font-weight: 700; font-style: normal; font-display: swap; }
+@font-face { font-family: "QWQ Han CN"; src: url("assets/fonts/QWQHanCN-Heavy.woff2") format("woff2"); font-weight: 900; font-style: normal; font-display: swap; }
+@font-face { font-family: "QWQ Han TW"; src: url("assets/fonts/QWQHanTW-Regular.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: swap; }
+@font-face { font-family: "QWQ Han TW"; src: url("assets/fonts/QWQHanTW-Bold.woff2") format("woff2"); font-weight: 700; font-style: normal; font-display: swap; }
+@font-face { font-family: "QWQ Han TW"; src: url("assets/fonts/QWQHanTW-Heavy.woff2") format("woff2"); font-weight: 900; font-style: normal; font-display: swap; }
+@font-face { font-family: "QWQ Han JP"; src: url("assets/fonts/QWQHanJP-Regular.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: swap; }
+@font-face { font-family: "QWQ Han JP"; src: url("assets/fonts/QWQHanJP-Bold.woff2") format("woff2"); font-weight: 700; font-style: normal; font-display: swap; }
+@font-face { font-family: "QWQ Han JP"; src: url("assets/fonts/QWQHanJP-Heavy.woff2") format("woff2"); font-weight: 900; font-style: normal; font-display: swap; }
+@font-face { font-family: "QWQ Han KR"; src: url("assets/fonts/QWQHanKR-Regular.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: swap; }
+@font-face { font-family: "QWQ Han KR"; src: url("assets/fonts/QWQHanKR-Bold.woff2") format("woff2"); font-weight: 700; font-style: normal; font-display: swap; }
+@font-face { font-family: "QWQ Han KR"; src: url("assets/fonts/QWQHanKR-Heavy.woff2") format("woff2"); font-weight: 900; font-style: normal; font-display: swap; }

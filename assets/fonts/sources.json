@@ -1,0 +1,114 @@
+[
+  {
+    "file": "QWQHanCN-Regular.woff2",
+    "source": "https://raw.githubusercontent.com/adobe-fonts/source-han-sans/release/SubsetOTF/CN/SourceHanSansCN-Regular.otf",
+    "bytes": 60424,
+    "subset": "All current website copy; rerun tools/prepare_assets.py after adding characters.",
+    "derivedFrom": "SourceHanSansCN-Regular"
+  },
+  {
+    "file": "QWQHanCN-Bold.woff2",
+    "source": "https://raw.githubusercontent.com/adobe-fonts/source-han-sans/release/SubsetOTF/CN/SourceHanSansCN-Bold.otf",
+    "bytes": 61140,
+    "subset": "All current website copy; rerun tools/prepare_assets.py after adding characters.",
+    "derivedFrom": "SourceHanSansCN-Bold"
+  },
+  {
+    "file": "QWQHanCN-Heavy.woff2",
+    "source": "https://raw.githubusercontent.com/adobe-fonts/source-han-sans/release/SubsetOTF/CN/SourceHanSansCN-Heavy.otf",
+    "bytes": 61820,
+    "subset": "All current website copy; rerun tools/prepare_assets.py after adding characters.",
+    "derivedFrom": "SourceHanSansCN-Heavy"
+  },
+  {
+    "file": "QWQHanTW-Regular.woff2",
+    "source": "https://raw.githubusercontent.com/adobe-fonts/source-han-sans/release/SubsetOTF/TW/SourceHanSansTW-Regular.otf",
+    "bytes": 56236,
+    "subset": "All current website copy; rerun tools/prepare_assets.py after adding characters.",
+    "derivedFrom": "SourceHanSansTW-Regular"
+  },
+  {
+    "file": "QWQHanTW-Bold.woff2",
+    "source": "https://raw.githubusercontent.com/adobe-fonts/source-han-sans/release/SubsetOTF/TW/SourceHanSansTW-Bold.otf",
+    "bytes": 57128,
+    "subset": "All current website copy; rerun tools/prepare_assets.py after adding characters.",
+    "derivedFrom": "SourceHanSansTW-Bold"
+  },
+  {
+    "file": "QWQHanTW-Heavy.woff2",
+    "source": "https://raw.githubusercontent.com/adobe-fonts/source-han-sans/release/SubsetOTF/TW/SourceHanSansTW-Heavy.otf",
+    "bytes": 57596,
+    "subset": "All current website copy; rerun tools/prepare_assets.py after adding characters.",
+    "derivedFrom": "SourceHanSansTW-Heavy"
+  },
+  {
+    "file": "QWQHanJP-Regular.woff2",
+    "source": "https://raw.githubusercontent.com/adobe-fonts/source-han-sans/release/SubsetOTF/JP/SourceHanSansJP-Regular.otf",
+    "bytes": 60744,
+    "subset": "All current website copy; rerun tools/prepare_assets.py after adding characters.",
+    "derivedFrom": "SourceHanSansJP-Regular"
+  },
+  {
+    "file": "QWQHanJP-Bold.woff2",
+    "source": "https://raw.githubusercontent.com/adobe-fonts/source-han-sans/release/SubsetOTF/JP/SourceHanSansJP-Bold.otf",
+    "bytes": 61784,
+    "subset": "All current website copy; rerun tools/prepare_assets.py after adding characters.",
+    "derivedFrom": "SourceHanSansJP-Bold"
+  },
+  {
+    "file": "QWQHanJP-Heavy.woff2",
+    "source": "https://raw.githubusercontent.com/adobe-fonts/source-han-sans/release/SubsetOTF/JP/SourceHanSansJP-Heavy.otf",
+    "bytes": 62144,
+    "subset": "All current website copy; rerun tools/prepare_assets.py after adding characters.",
+    "derivedFrom": "SourceHanSansJP-Heavy"
+  },
+  {
+    "file": "QWQHanKR-Regular.woff2",
+    "source": "https://raw.githubusercontent.com/adobe-fonts/source-han-sans/release/SubsetOTF/KR/SourceHanSansKR-Regular.otf",
+    "bytes": 64400,
+    "subset": "All current website copy; rerun tools/prepare_assets.py after adding characters.",
+    "derivedFrom": "SourceHanSansKR-Regular"
+  },
+  {
+    "file": "QWQHanKR-Bold.woff2",
+    "source": "https://raw.githubusercontent.com/adobe-fonts/source-han-sans/release/SubsetOTF/KR/SourceHanSansKR-Bold.otf",
+    "bytes": 65772,
+    "subset": "All current website copy; rerun tools/prepare_assets.py after adding characters.",
+    "derivedFrom": "SourceHanSansKR-Bold"
+  },
+  {
+    "file": "QWQHanKR-Heavy.woff2",
+    "source": "https://raw.githubusercontent.com/adobe-fonts/source-han-sans/release/SubsetOTF/KR/SourceHanSansKR-Heavy.otf",
+    "bytes": 66508,
+    "subset": "All current website copy; rerun tools/prepare_assets.py after adding characters.",
+    "derivedFrom": "SourceHanSansKR-Heavy"
+  },
+  {
+    "file": "QWQSans-Text.woff2",
+    "source": "https://raw.githubusercontent.com/IBM/plex/master/packages/plex-sans/fonts/complete/ttf/IBMPlexSans-Text.ttf",
+    "bytes": 14236,
+    "subset": "All current website copy; rerun tools/prepare_assets.py after adding characters.",
+    "derivedFrom": "IBMPlexSans-Text"
+  },
+  {
+    "file": "QWQSans-Bold.woff2",
+    "source": "https://raw.githubusercontent.com/IBM/plex/master/packages/plex-sans/fonts/complete/ttf/IBMPlexSans-Bold.ttf",
+    "bytes": 13692,
+    "subset": "All current website copy; rerun tools/prepare_assets.py after adding characters.",
+    "derivedFrom": "IBMPlexSans-Bold"
+  },
+  {
+    "file": "QWQMono-Bold.woff2",
+    "source": "https://raw.githubusercontent.com/IBM/plex/master/packages/plex-mono/fonts/complete/ttf/IBMPlexMono-Bold.ttf",
+    "bytes": 10088,
+    "subset": "All current website copy; rerun tools/prepare_assets.py after adding characters.",
+    "derivedFrom": "IBMPlexMono-Bold"
+  },
+  {
+    "file": "Syncopate-Bold.woff2",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/apache/syncopate/Syncopate-Bold.ttf",
+    "bytes": 11184,
+    "subset": "All current website copy; rerun tools/prepare_assets.py after adding characters.",
+    "derivedFrom": "Syncopate-Bold"
+  }
+]
